@@ -21,8 +21,8 @@
   }
   
   .planet-card {
-    background-color: #ff004f;
-    /* background: linear-gradient(rgba(255, 255, 255, 0.6),#ff004f); */
+/*     background-color: #ff004f; */
+    background: linear-gradient(rgba(255, 255, 255, 0.6),#ff004f);
     border-radius: 15px;
     padding: 40px;
     margin-bottom: 40px;
@@ -62,15 +62,5 @@
     background-color: #0056b3;
   }
 
-  /* *{
-    margin: 0;
-    padding: 0;
-    background: fixed;
-    width: 100%;
-    height: 100%;
-  } */
-  /* .container{
-    background-size:contain;
-    background-position:center;
-  } */
+
   
