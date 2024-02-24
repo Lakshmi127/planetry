@@ -58,7 +58,7 @@ function displayPagination() {
   if (nextPageURL) {
     const button = document.createElement('button');
     button.classList.add('pagination-button');
-    button.innerText = 'Load More';
+    button.innerText = 'Next Info';
     button.addEventListener('click', () => {
       fetchPlanets(nextPageURL);
     });
