@@ -1,0 +1,1 @@
+This is a web application that showcases planets from the Star Wars universe using the Star Wars API (SWAPI). This directory will not only feature information about each planet but also list its notable residents. This work will demonstrate my proficiency in API integration, frontend development, and the ability to produce a responsive and stylish user interface.
